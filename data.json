@@ -1,0 +1,11 @@
+{
+    "items": {
+        "B451": {
+            "type": "ReferenceBook",
+            "title": "Harry Potter",
+            "is_available": true
+        }
+    },
+    "members": {},
+    "loans": {}
+}
